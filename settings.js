@@ -22,7 +22,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "2348132498497" //ur owner number2
+global.ownernomer = "2347038808360" //ur owner number2
 global.ownername = "𝐌𝐚𝐱𝐢𝐦𝐮𝐦✍🏾" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: iamevilboy" //ur github or insta name
@@ -30,18 +30,18 @@ global.location = "nigeria, lagos, abuja" //ur location
 
 //new
 global.botname = "𝐌𝐚𝐱𝐢 𝐁𝐨𝐭✍🏾"
-global.ownernumber = '2348132498497'
+global.ownernumber = '2347038808360'
 global.ownername = '𝐌𝐚𝐱𝐢𝐦𝐮𝐦✍🏾'
-global.ownerNumber = ["2348132498497@s.whatsapp.net"]
+global.ownerNumber = ["2347038808360@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
-global.wagc = ""
+global.wagc = "https://whatsapp.com/channel/0029VaNJGv4Elah1LZva7x0b"
 global.themeemoji = '✍🏾'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "✍🏾"
-global.author = "𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐇𝐮𝐦𝐢𝐝𝐢𝐭𝐲•✍🏾"
-global.creator = "2348132498497@s.whatsapp.net"
+global.author = "𝐌𝐚𝐱𝐢𝐦𝐮𝐦—𝐁𝐨𝐭•✍🏾"
+global.creator = "2347038808360@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
